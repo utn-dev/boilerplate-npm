@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "utn-dev",
+	"author": "Marcos Ramos",
 	"dependencies": {
 	  "express": "^4.14.0"
 	},
