@@ -1,5 +1,4 @@
 {
-	"author": "Marcos Ezequiel Ramos",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -19,5 +18,7 @@
 		"url": "https://github.com/utn-dev/boilerplate-npm/issues"
 	},
 	"homepage": "https://github.com/utn-dev/boilerplate-npm#readme",
-	"keywords": []
+	"keywords": [],
+	"author": "Marcos Ezequiel Ramos"
 }
+
