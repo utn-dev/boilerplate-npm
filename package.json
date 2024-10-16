@@ -1,24 +1,18 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "utn-dev",
 	"dependencies": {
-		"express": "^4.14.0"
+	  "express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
-		"start": "node server.js"
+	  "start": "node server.js"
+	},
+	"engines": {
+	  "node": "8.11.2"
 	},
 	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/utn-dev/boilerplate-npm.git"
-	},
-	"version": "1.0.0",
-	"description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/",
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/utn-dev/boilerplate-npm/issues"
-	},
-	"homepage": "https://github.com/utn-dev/boilerplate-npm#readme",
-	"keywords": [],
-	"autor": "Marcos Ezequiel Ramos"
-}
-
+	  "type": "git",
+	  "url": "https://idontknow/todo.git"
+	}
+  }
